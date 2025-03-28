@@ -1,0 +1,29 @@
+{
+  "count": 1,
+  "message": "Busca realizada com sucesso",
+  "results": [
+    {
+      "Bairro": "CENTRO",
+      "CEP": "20040006",
+      "CNPJ": "37201454000130",
+      "Cargo_Representante": "S\u00c3\u0093CIA ADMINISTRADORA",
+      "Cidade": "Rio de Janeiro",
+      "Complemento": "15\u00c2\u00ba ANDAR  SALA 1501",
+      "DDD": 21.0,
+      "Data_Registro_ANS": "2020-09-03",
+      "Endereco_eletronico": "contato@adress.com.br",
+      "Fax": "",
+      "Logradouro": "AVENIDA RIO BRANCO",
+      "Modalidade": "Administradora de Benef\u00c3\u00adcios",
+      "Nome_Fantasia": "ADRESS",
+      "Numero": "125",
+      "Razao_Social": "ADRESS ADMINISTRADORA DE BENEFICIOS LTDA",
+      "Regiao_de_Comercializacao": 6.0,
+      "Registro_ANS": "422347",
+      "Representante": "LAIR ISABEL BOHRER DIEDAM",
+      "Telefone": "22524066",
+      "UF": "RJ"
+    }
+  ],
+  "success": true
+}
