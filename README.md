@@ -61,4 +61,9 @@ cd api_teste
 python server.py
 ```
 
+## OBS
+**Obs 1:** Para modularizar o teste foi feito dois repositórios diferentes.
+
+**Obs 2:** O repositório 1 se encontra: [Teste parte 1](https://github.com/EduardoTrikk/TESTES-DE-NIVELAMENTO/tree/main)
+
 ✨ Muito obrigado por sua atenção!
