@@ -1,4 +1,6 @@
-# frontend
+# TESTES-DE-NIVELAMENTO-API
+
+Olá, me chamo Eduardo, sou responsável pelo desenvolvimento deste arquivo. Primeiramente, gostaria de agradecer pela oportunidade cedida a mim por este teste!
 
 ## 📣 Tecnologias Utilizadas
 - Python 3.12
